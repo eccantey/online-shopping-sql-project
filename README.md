@@ -8,19 +8,28 @@ Five tables were used for this project. They are as follows:
 
 ### Customers
 **Columns:** customer_id, first_name, last_name, email, phone, city, state_province, country, zip_code, registration_date
+
 This table contains customer data. There are 5,500 rows.
 
 ### Orders
 **Columns:** order_id, customer_id, order_date, status, shipped_date, delivery_date, exp_delivery_date
 
+This table includes information about each order placed by a customer. There are 10,000 rows.
+
 ### OrderDetails
 **Columns:** order_id, product_id, quantity, unit_price_usd
+
+This table includes every product included in every order, how many of each product, and the unit price in American dollars. There are 25,000 rows.
 
 ### Products
 **Columns:** product_id, supplier_id, product_name, category, price_usd
 
+This table contains information about every product. There are 250 rows.
+
 ### Suppliers
 **Columns:** supplier_id, supplier_name, city, state_province, country
+
+This table contains information about the suppliers of our products. There are 75 rows.
 
 ## Cleaning Process
 
