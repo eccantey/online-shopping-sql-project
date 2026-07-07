@@ -1,71 +1,76 @@
 supplier_id,supplier_name,city,state_province,country
-59562,"Corporacin Gamez, Lugo y Zapata Imports",New York,NY,United States
-88484,"Saldivar, Pulido y Palomo Supply",Los Angeles,CA,United States
-83310,Canales-Anaya S. R.L. de C.V. Distribution,Los Angeles,CA,United States
-23169,"Robinson, Moreno and Lawson Supply",Raleigh,NC,United States
-99172,Williams-Moore Trading,Leon,GJ,Mexico
-42576,"Obrien, Mendez and Greene Imports",San Diego,CA,United States
-96506,Conner and Sons Trading,Ottawa,ON,Canada
-63987,Gallegos-Covarrubias S.A. Supply,Vancouver,BC,Canada
-33663,Allison-Weaver Trading,Houston,TX,United States
-75132,"Parker, Leon and Martin Distribution",Leon,GJ,Mexico
-42123,"Horn, Evans and Scott Imports",Austin,TX,United States
-93420,Rose Ltd Trading,San Diego,CA,United States
-97231,Chase and Sons Supply,Orlando,FL,United States
-25310,Mitchell Ltd Trading,Coyoacan,CM,Mexico
-92939,"Despacho Canales, Segura y Collado Wholesale",Austin,TX,United States
-60916,"Bruce, Pena and Johnson Wholesale",New York,NY,United States
-65671,Arroyo-Ledesma y Asociados Trading,Buffalo,NY,United States
-54709,"Stevenson, Harris and Willis Distribution",Houston,TX,United States
-88971,Carr-Smith Supply,Leon,GJ,Mexico
-40232,Anderson Group Distribution,Orlando,FL,United States
-69496,Townsend LLC Supply,Victoria,BC,Canada
-38331,"Day, Hayes and Wright Distribution",Buffalo,NY,United States
-77419,Morrow-Ford Distribution,New York,NY,United States
-82492,Vaca y Rivas S.C. Distribution,Monterrey,NL,Mexico
-46965,Olivares-Marrero Distribution,San Diego,CA,United States
-49261,Proyectos Alonzo-Téllez Imports,Buffalo,NY,United States
-33379,"Despacho Espinosa, Esparza y Bonilla Distribution",Orlando,FL,United States
-44542,"Hubbard, Erickson and Villa Trading",Monterrey,NL,Mexico
-64252,Cuellar S. R.L. de C.V. Wholesale,Halifax,NS,Canada
-88316,Fierro y Saiz e Hijos Supply,Charlotte,NC,United States
-32606,Despacho Beltrán y Varela Distribution,Buffalo,NY,United States
-37122,Hardin-Barnes Wholesale,Leon,GJ,Mexico
-93452,Brown and Sons Distribution,Vancouver,BC,Canada
-80943,Lewis Group Imports,Dallas,TX,United States
-71557,Bean Group Supply,Guanajuato,GJ,Mexico
-72746,de la Rosa y Vergara e Hijos Trading,Toronto,ON,Canada
-49221,Miller LLC Trading,Charlotte,NC,United States
-54858,Velasco-Barreto S.C. Distribution,Los Angeles,CA,United States
-20920,Castillo-Robinson Supply,Leon,GJ,Mexico
-53568,Taylor LLC Trading,New York,NY,United States
-33668,Mccarthy-Rogers Trading,New York,NY,United States
-77976,Palomo-Ornelas S. R.L. de C.V. Wholesale,Los Angeles,CA,United States
-53070,Torres S.A. de C.V. Trading,Los Angeles,CA,United States
-54240,"Santos, Fisher and King Wholesale",Guadalajara,JA,Mexico
-81290,"Laboratorios Miramontes, Cuellar y Carrión Distribution",Mexico City,CM,Mexico
-75748,Perkins-Burnett Distribution,Toronto,ON,Canada
-64705,Alcaraz-Polanco y Asociados Imports,Coyoacan,CM,Mexico
-43868,Grijalva-Brito Supply,Charlotte,NC,United States
-36915,Flynn PLC Trading,San Diego,CA,United States
-59760,"Edwards, Cohen and Wilson Imports",Orlando,FL,United States
-72551,Nelson-Jackson Wholesale,New York,NY,United States
-72574,Villagómez A.C. Supply,Ottawa,ON,Canada
-87638,Donaldson-Humphrey Wholesale,Montreal,QC,Canada
-63394,Hill-Fox Wholesale,Halifax,NS,Canada
-35050,Rosales-Quiroz S. R.L. de C.V. Imports,Orlando,FL,United States
-74030,Meyers LLC Wholesale,Charlotte,NC,United States
-97688,Flores-Harris Distribution,Ottawa,ON,Canada
-43328,Riddle Group Supply,Montreal,QC,Canada
-28720,Jurado y Lemus S. R.L. de C.V. Distribution,Mexico City,CM,Mexico
-82477,Yu Group Trading,Leon,GJ,Mexico
-68589,"Brito, Valdez y Tijerina Distribution",Montreal,QC,Canada
-29456,Corporacin Gallegos-Garza Wholesale,Los Angeles,CA,United States
-80473,Norris-Oliver Supply,Los Angeles,CA,United States
-33672,"Olson, Hardin and Perry Trading",Miami,FL,United States
-52445,Cadena-Benavides Imports,Dallas,TX,United States
-68701,Colunga S.A. de C.V. Imports,Halifax,NS,Canada
-38819,"Brock, Williams and Khan Wholesale",Monterrey,NL,Mexico
-92531,"Sanders, Santiago and Barnett Distribution",San Diego,CA,United States
-58937,Gonzalez Inc Distribution,Vancouver,BC,Canada
-62952,Garcia Inc Imports,Montreal,QC,Canada
+1017,Latitude Distribution Center,Lethbridge North,AB,Canada
+1186,Vector Supply Management,Santa María,CO,Mexico
+1287,Prism Trade Associates,El Hormiguero,CH,Mexico
+1323,Nexus Market Exchange,El Mezquite,DG,Mexico
+1375,Element Source Direct,Olympia,WA,United States
+1400,Unity Supply Network,La Mesa,SI,Mexico
+1429,Compass Global Supply,Chatham Southeast,ON,Canada
+1471,Revolution Supply Collective,Grand Rapids,MI,United States
+1472,Ascent Trade Enterprises,"Lakeville, Shediac Bridge",NB,Canada
+1547,Nexus Inventory Management,Downtown Toronto,ON,Canada
+1571,Premier Trade Solutions,New York City,NY,United States
+1848,Empire Wholesale Direct,Uxbridge,ON,Canada
+1911,Quantum Wholesale Ventures,Baie-Comeau Northeast,QC,Canada
+2361,Synergy Commerce Hub,Anchorage,AK,United States
+2769,Sovereign Goods Corporation,Wilmington,DE,United States
+2840,Zenith Trade Network,Aurora,IL,United States
+2974,Strategic Source Wholesale,Huntington,WV,United States
+3041,Horizon Distribution Network,Amarillo,TX,United States
+3141,Delta Manufacturing Group,Hollywood,FL,United States
+3581,Aurora Trade Solutions,Saint-Georges Northwest,QC,Canada
+3589,Beacon Distribution Alliance,Saint Paul,MN,United States
+3607,Catalyst Commerce Network,Houston,TX,United States
+3686,Spectrum Trade Technologies,Brampton East,ON,Canada
+3898,Innovation Market Collective,Beauharnois,QC,Canada
+4202,Axis Merchandise Resources,Sainte-Foy West,QC,Canada
+4302,Paradigm Logistics Solutions,Santa Barbara,CA,United States
+4476,Vantage Supplier Networks,Iona,NS,Canada
+4486,Velocity Merchandise Direct,Abitibi-Témiscamingue-Est,QC,Canada
+4668,Summit Distribution Partners,Washington,DC,United States
+4750,Pioneer Direct Supply,Kansas City,MO,United States
+4757,Zenith Goods Exchange,Centro,MI,Mexico
+4939,Pulse Commerce International,Palmitas,CP,Mexico
+4975,Momentum Distribution Systems,Carson City,NV,United States
+5102,Elite Commerce Partners,Mont-Tremblant,QC,Canada
+5389,Frontier Supply Solutions,Lynchburg,VA,United States
+5443,Echo Global Dynamics,Miami,FL,United States
+5484,Zenith Supply Corporation,Saint Paul,MN,United States
+5556,Nexus Brand Distribution,Houston,TX,United States
+6045,Stellar Logistics Partners,El Paso,TX,United States
+6079,Bridge Commercial Supply,Winnipeg,MB,Canada
+6163,Quantum Goods Corporation,San Dieguito de Tierra Blanca,GJ,Mexico
+6232,Frontier Wholesale Enterprises,Heriberto Jara,NA,Mexico
+6368,Titan Supply Solutions,El Pajarito,CH,Mexico
+6580,Pinnacle Commerce Solutions,Miramichi North,NB,Canada
+6919,Vertex Bulk Supplies,Reno,NV,United States
+6993,Synergy Goods Partnership,Reading,PA,United States
+7056,Sterling Commerce Group,Hamilton,ON,Canada
+7096,Pinnacle Market Resources,Augusta,GA,United States
+7345,Apex Trade Hub,Saint-Hubert East,QC,Canada
+7389,Echo Supply Management,Los Pollos,CP,Mexico
+7547,Momentum Goods Company,Flin Flon,MB,Canada
+7569,Rapid Inventory Solutions,Valleyfield,QC,Canada
+7747,Impact Distribution Services,Albuquerque,NM,United States
+7766,Aurora Wholesale Brands,Hamilton,OH,United States
+7878,Nexus Commercial Enterprises,Washington,DC,United States
+7916,Catalyst Bulk Distributors,Washington,DC,United States
+8022,Horizon Brand Distributors,Fort Lauderdale,FL,United States
+8253,Global Trade Partners,Washington,DC,United States
+8269,Infinity Supply Collective,Lomas Del Paraíso,ZA,Mexico
+8351,Innovation Supply Partners,Winter Haven,FL,United States
+8603,Cornerstone Trade Systems,Greensboro,NC,United States
+8632,Prism Wholesale Network,Oklahoma City,OK,United States
+8686,Beacon Bulk Operations,Bronx,NY,United States
+8813,Catalyst Distribution Hub,Louisville,KY,United States
+8846,Summit Product Holdings,Fort Wayne,IN,United States
+9057,Velocity Global Marketplace,Rinconada San José,QE,Mexico
+9059,Pulse Wholesale Hub,La Tuque,QC,Canada
+9123,Velocity Trade Collective,El Paso,TX,United States
+9133,Nexus Bulk Trading,Huntington,WV,United States
+9160,Element Trade Alliance,Irving,TX,United States
+9351,Forge Industrial Alliance,La Sierra,CS,Mexico
+9663,Ascent Distribution Alliance,Toledo,OH,United States
+9756,Horizon Wholesale Direct,East Saint Louis,IL,United States
+9884,Titan Goods Exchange,El Paso,TX,United States
+9977,Apex Global Industries,Montgomery,AL,United States
