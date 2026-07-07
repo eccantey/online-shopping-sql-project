@@ -7,19 +7,19 @@ This is a project to demonstrate my skills in SQL and data visualization using a
 Five tables were used for this project. They are as follows:
 
 ### Customers
-**Columns:** customer_id, first_name, last_name, email, phone, city, state_province, country, zip_code, registration_date
+**Columns: ** customer_id, first_name, last_name, email, phone, city, state_province, country, zip_code, registration_date
 
 ### Orders
-**Columns:** order_id, customer_id, order_date, status, shipped_date, delivery_date, exp_delivery_date
+**Columns: ** order_id, customer_id, order_date, status, shipped_date, delivery_date, exp_delivery_date
 
 ### OrderDetails
-**Columns:** order_id, product_id, quantity, unit_price_usd
+**Columns: ** order_id, product_id, quantity, unit_price_usd
 
 ### Products
-**Columns:** product_id, supplier_id, product_name, category, price_usd
+**Columns: ** product_id, supplier_id, product_name, category, price_usd
 
 ### Suppliers
-**Columns:** supplier_id, supplier_name, city, state_province, country
+**Columns: ** supplier_id, supplier_name, city, state_province, country
 
 ## Cleaning Process
 
