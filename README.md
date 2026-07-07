@@ -8,6 +8,7 @@ Five tables were used for this project. They are as follows:
 
 ### Customers
 **Columns:** customer_id, first_name, last_name, email, phone, city, state_province, country, zip_code, registration_date
+This table contains customer data. There are 5,500 rows.
 
 ### Orders
 **Columns:** order_id, customer_id, order_date, status, shipped_date, delivery_date, exp_delivery_date
